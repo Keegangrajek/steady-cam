@@ -1,4 +1,4 @@
-# Project 000-015 (stead-cam)
+# Project 000-015 (steady-cam)
 
 This is a project to document me making a custom 3d printed steady cam
 
